@@ -1,0 +1,31 @@
+.動物列 {
+	justify-content: center;
+	width: 110px;
+	padding: 5px;
+	border: 1.2px solid black;
+}
+
+p.image img {
+  width: 110px;
+	margin-top: -15px;
+}
+
+.動物横並び {
+	display: flex;
+	justify-content: center;
+	gap: 5px;
+}
+
+.イヌ{
+	margin-top: -15px;
+	font-size: 20px;
+	font-family: serif;
+	font-weight: bold;
+}
+
+.ヤク{
+	margin-top: -15px;
+	font-size: 20px;
+	font-family: serif;
+	font-weight: bold;
+}
